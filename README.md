@@ -1,2 +1,2 @@
 # MYname
-my name
+a c prog stating my name
